@@ -1,5 +1,14 @@
- Hi, I’m @ishrivasayush
-👀 I’m interested in C++/Java/DataStructures
-🌱 I’m currently Working on Java Back-end developmet
-💞️ I’m looking to collaborate on
-📫 How to reach me twiter @ishri_ayush / email: ayushrivastava2k3@gmail.com
+Hey, नमस्ते (Namaste)🙏🏻, I'm Ayush Shrivastava!
+🌱---🌳
+
+GitHub followers
+
+Currently : A CS student at Jain University, Bangalore.
+I'm Currently Learning
+A self taught programmer
+
+Web Development
+Data Structure and Algorithms
+Currently working on :-
+Web Development -
+I have document my experience throughout this process, and you can find them on my LinkedIn featured.
